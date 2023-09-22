@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: lightblue;
+}
+div {
+  display: block
+}
+
+th {
+  width: 120px;
+  padding-top:25px;
+  padding-bottom:30px;
+}
+
+td {
+  padding: 20px;
+}
+
+.Card {
+  color: #000;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 15px 25px #817c7c33;
+  font-size: medium;
+  border-radius: 14px;
+  backdrop-filter: blur(2px);
+  text-align: center;
+  margin-bottom: 30px;
+  height: 450px;
+}
+
+.Container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.bigbox{
+  width: 33%;
+  padding: 50px;
+  justify-content: space-between;
+  margin-right: 30%;
+  background-color: white;
+
+}
+.pic1 {
+  width :250px;
+  height: 300px;
+  padding-bottom: 10px;
+}
+
+.h1 {
+  text-align: center;
+  font-size: medium;
+  color: black
+}
+
+button {
+  height: 50px;
+  width: 100px;
+  background-color: red;
+  text-align: center;
+  border-radius: 10%;
+}
+.Event {
+  width: 100px;
+}
+.Event h1 {
+  line-height: 0px;
+  align-content: center;
+}
+.eventname {
+  text-align: center;
+}
+.td {
+  align-content: center;
+}
