@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/4Prh6DBV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J3a2RmaHdid3p4bWNqMHpnbzR2ZjhyNHl4N2N1OTB1NjY3cWg3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxFf5QWhcxLtoM1laA/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
