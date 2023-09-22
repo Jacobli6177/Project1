@@ -3,7 +3,7 @@
 Submitted by: Jacob Li
 
 This web app:
-Implements React and creating Events that implies into the Text and auto-updates the background color
+Implements React and creates Events that imply into the Text and auto-updates the background color
 
 Time spent: **5** hours spent in total
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/4Prh6DBV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
