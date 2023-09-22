@@ -35,8 +35,7 @@ GIF created with Giphy
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Implementing event from another JSX file into the box of cards the represent each food.
 
 ## License
 
