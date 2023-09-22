@@ -6,9 +6,6 @@ body {
   min-height: 100vh;
   background-color: lightblue;
 }
-div {
-  display: block
-}
 
 th {
   width: 120px;
@@ -32,20 +29,12 @@ td {
   margin-bottom: 30px;
   height: 450px;
 }
-
-.Container {
-  display: flex;
-  flex-flow: row wrap;
-  align-items: center;
-  justify-content: space-between;
-}
 .bigbox{
   width: 33%;
   padding: 50px;
   justify-content: space-between;
   margin-right: 30%;
   background-color: white;
-
 }
 .pic1 {
   width :250px;
@@ -64,18 +53,26 @@ button {
   width: 100px;
   background-color: red;
   text-align: center;
-  border-radius: 10%;
+  border-radius: 20%;
 }
 .Event {
   width: 100px;
 }
 .Event h1 {
+  width: 100px;
   line-height: 0px;
   align-content: center;
+  text-align: center;
 }
 .eventname {
   text-align: center;
 }
 .td {
   align-content: center;
+}
+.Event .eventname{
+  width: 1000px;
+  line-height: 0px;
+  align-content: center;
+  text-align: center;
 }

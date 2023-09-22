@@ -65,7 +65,7 @@ const Card = () => {
                     </td>
                     <td>
                         <img class= 'pic1' src = '../src/images/pizza.jpg'></img>
-                        <Event food = 'Pizza'/>
+                        <Event food = 'Pizza' classname="fix"/>
                         <button><a href ="https://en.wikipedia.org/wiki/Pizza" target ="_blank">View Background</a></button>
                     </td>
                     <td>
